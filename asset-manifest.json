@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Practicing-React/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Practicing-React/static/js/main.07624e3d.chunk.js",
+    "main.js.map": "/Practicing-React/static/js/main.07624e3d.chunk.js.map",
+    "runtime-main.js": "/Practicing-React/static/js/runtime-main.cb3d22ce.js",
+    "runtime-main.js.map": "/Practicing-React/static/js/runtime-main.cb3d22ce.js.map",
+    "static/js/2.7eeff831.chunk.js": "/Practicing-React/static/js/2.7eeff831.chunk.js",
+    "static/js/2.7eeff831.chunk.js.map": "/Practicing-React/static/js/2.7eeff831.chunk.js.map",
+    "static/js/3.22f52b11.chunk.js": "/Practicing-React/static/js/3.22f52b11.chunk.js",
+    "static/js/3.22f52b11.chunk.js.map": "/Practicing-React/static/js/3.22f52b11.chunk.js.map",
+    "index.html": "/Practicing-React/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Practicing-React/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7eeff831.chunk.js.LICENSE.txt": "/Practicing-React/static/js/2.7eeff831.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Practicing-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb3d22ce.js",
+    "static/js/2.7eeff831.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.07624e3d.chunk.js"
+  ]
+}
